@@ -1,0 +1,17 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "fcntl.h": "c",
+        "zpixel.h": "c",
+        "arbre.h": "c",
+        "stdio.h": "c",
+        "stdbool.h": "c",
+        "random": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "stack2.h": "c",
+        "degradation.h": "c",
+        "stdlib.h": "c"
+    }
+}
